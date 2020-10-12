@@ -17,6 +17,9 @@ HTML
 https://developer.mozilla.org/ru/ --Ресурсы для разработчиков, от разработчиков.
 https://frontender.info/ -- FRONTENDER MAGAZINE
 
+**Шрифты
+https://fonts.google.com/
+
 
 WEB
 ============
