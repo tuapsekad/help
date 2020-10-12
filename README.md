@@ -39,6 +39,10 @@ geekbrains.ru
 https://www.cyberforum.ru/ - Форум программистов и сисадминов Киберфорум
 
 
+ГИТ
+============
+https://gitsheet.wtf/
+
 Библия
 ============
 https://bibleonline.ru
