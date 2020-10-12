@@ -6,6 +6,8 @@ https://proglib.io/ !!!
 
 http://ab-w.net/
 
+https://the-evening-code.com/
+
 https://www.w3schools.com/ - Основа WEB
 
 https://metanit.com/ -Данный сайт посвящен различным языкам и технологиям программирования, компьютерам, мобильным платформам и ИТ-технологиям
