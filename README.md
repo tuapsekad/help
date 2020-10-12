@@ -1,6 +1,5 @@
 HTML
 ============
-
 https://coderoad.ru/ - !!!очень много ответов
 
 https://proglib.io/ !!!
@@ -14,9 +13,15 @@ HTML
 https://developer.mozilla.org/ru/ --Ресурсы для разработчиков, от разработчиков.
 https://frontender.info/ -- FRONTENDER MAGAZINE
 
+
+WEB
+============
+https://mobirise.com/
+
+
 JavaScript
 ============
-learn.javascript.ru - самый лучший учебник
+https://learn.javascript.ru - самый лучший учебник
 
 Python
 ============
@@ -37,7 +42,7 @@ https://www.cyberforum.ru/ - Форум программистов и сисад
 https://bibleonline.ru
 
 
-фотошоп
+Фотошоп
 ============
 https://psdmaster.ru
 http://digmast.ru/
@@ -52,6 +57,7 @@ https://wd-x.ru/
 http://g-mini.ru/forum/topic/415/
 http://g-mini.ru/forum/
 http://moservices.org/forum/viewtopic.php?t=1535
+
 
 Спорт
 ============
