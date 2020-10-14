@@ -33,6 +33,8 @@ https://learn.javascript.ru - самый лучший учебник
 
 Python
 ============
+https://pythonist.ru/
+
 https://pythonworld.ru/ - python для начинающих
 
 https://pythonz.net/
