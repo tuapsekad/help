@@ -39,6 +39,8 @@ https://pythonworld.ru/ - python для начинающих
 
 https://pythonz.net/
 
+https://python-scripts.com
+
 python-docx.readthedocs.io/en/latest/ - python-docx
 
 https://pandas.pydata.org/docs/index.html --Pandas
