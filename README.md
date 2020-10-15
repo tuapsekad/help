@@ -35,13 +35,15 @@ Python
 ============
 https://pythonist.ru/
 
-https://pythonworld.ru/ - python для начинающих
+python для начинающих
+https://pythonworld.ru/
 
 https://pythonz.net/
 
 https://python-scripts.com
 
-python-docx.readthedocs.io/en/latest/ - python-docx
+python-docx
+python-docx.readthedocs.io/en/latest/
 
 https://pandas.pydata.org/docs/index.html --Pandas
 
