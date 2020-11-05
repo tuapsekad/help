@@ -50,6 +50,7 @@ https://pandas.pydata.org/docs/index.html --Pandas
 geekbrains.ru
 https://www.cyberforum.ru/ - Форум программистов и сисадминов Киберфорум
 
+http://datalytics.ru/
 
 ГИТ
 ============
