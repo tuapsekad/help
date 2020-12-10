@@ -62,8 +62,11 @@ http://blog.dfedorov.spb.ru/
 http://gatamanov.blogspot.com/
 
 
-ГИТ
+MSSQL
 ============
+Учебное пособие (Ицик Бен-Ган,Деян Сарка,Рон Талмейдж)
+https://minyurov.files.wordpress.com/2014/10/microsoft-sql-server-2012-t-sql.pdf
+
 https://gitsheet.wtf/
 
 Библия
