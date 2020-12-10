@@ -52,6 +52,16 @@ https://www.cyberforum.ru/ - Форум программистов и сисад
 
 http://datalytics.ru/
 
+Дмитрий Федоров (Pandas)
+http://dfedorov.spb.ru/pandas/
+
+Блог(Дмитрий Федоров)
+http://blog.dfedorov.spb.ru/
+
+АГАСОФИЯ Блог Атаманова Г.А.
+http://gatamanov.blogspot.com/
+
+
 ГИТ
 ============
 https://gitsheet.wtf/
