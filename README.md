@@ -33,6 +33,9 @@ https://learn.javascript.ru - самый лучший учебник
 
 Python
 ============
+Питон в научных вычислениях
+http://www.inp.nsk.su/~grozin/python/
+
 https://pythonist.ru/
 
 python для начинающих
