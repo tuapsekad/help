@@ -33,6 +33,9 @@ https://learn.javascript.ru - самый лучший учебник
 
 Python
 ============
+https://nagornyy.me/
+Нагорный Олег и его курсы
+
 Питон в научных вычислениях
 http://www.inp.nsk.su/~grozin/python/
 
