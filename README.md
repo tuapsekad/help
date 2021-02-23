@@ -45,6 +45,9 @@ https://learn.javascript.ru - самый лучший учебник
 
 Python
 ============
+Python Weekly
+https://us2.campaign-archive.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5
+
 https://nagornyy.me/
 Нагорный Олег и его курсы
 
@@ -88,6 +91,10 @@ https://kadekillary.work/post/embarrassment-of-pandas/
 
 (Pandas)
 https://www.marsja.se/pandas-read-csv-tutorial-to-csv/
+
+
+How to Replace Values in Pandas DataFrame
+https://datatofish.com/replace-values-pandas-dataframe/
 
 https://pythonru.com/
 
