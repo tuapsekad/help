@@ -69,6 +69,8 @@ http://blog.dfedorov.spb.ru/
 АГАСОФИЯ Блог Атаманова Г.А.
 http://gatamanov.blogspot.com/
 
+Kade Killary (Pandas)
+https://kadekillary.work/post/embarrassment-of-pandas/
 
 MSSQL
 ============
