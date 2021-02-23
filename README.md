@@ -72,6 +72,18 @@ http://gatamanov.blogspot.com/
 Kade Killary (Pandas)
 https://kadekillary.work/post/embarrassment-of-pandas/
 
+(Pandas)
+https://www.marsja.se/pandas-read-csv-tutorial-to-csv/
+
+https://pythonru.com/
+
+https://realpython.com/
+
+kaggle(datasets)
+https://www.kaggle.com/datasets
+
+
+
 MSSQL
 ============
 Учебное пособие (Ицик Бен-Ган,Деян Сарка,Рон Талмейдж)
