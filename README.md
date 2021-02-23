@@ -1,3 +1,5 @@
+Блог об аналитике, визуализации данных, data science и BI
+https://leftjoin.ru/
 
 JupyterLab 3.0 is released!
 https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb
