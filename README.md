@@ -21,6 +21,8 @@ https://frontender.info/ -- FRONTENDER MAGAZINE
 
 https://fonts.google.com/
 
+**LINUX
+https://losst.ru/
 
 WEB
 ============
