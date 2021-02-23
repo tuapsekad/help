@@ -1,3 +1,10 @@
+
+JupyterLab 3.0 is released!
+https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb
+
+**TensorFlow - это сквозная платформа с открытым исходным кодом для машинного обучения.
+https://www.tensorflow.org/overview
+
 **TIO поддерживает 260 практических и 420 развлекательных языков программирования, всего 681 язык.
 https://tio.run/
 
@@ -71,6 +78,10 @@ http://blog.dfedorov.spb.ru/
 
 АГАСОФИЯ Блог Атаманова Г.А.
 http://gatamanov.blogspot.com/
+
+
+Объяснение кросс-таблицы в Pandas.ipynb
+https://colab.research.google.com/github/dm-fedorov/pandas_basic/blob/master/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE%D0%B5%20%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20pandas/%D0%9E%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D1%80%D0%BE%D1%81%D1%81-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D0%B2%20Pandas.ipynb#scrollTo=d01vtwDoZs88
 
 Kade Killary (Pandas)
 https://kadekillary.work/post/embarrassment-of-pandas/
