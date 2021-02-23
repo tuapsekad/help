@@ -48,6 +48,11 @@ Python
 Python Weekly
 https://us2.campaign-archive.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5
 
+Все о Python
+https://tproger.ru/
+
+https://all-python.ru/
+
 https://nagornyy.me/
 Нагорный Олег и его курсы
 
