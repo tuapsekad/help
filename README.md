@@ -111,12 +111,13 @@ kaggle(datasets)
 https://www.kaggle.com/datasets
 
 
-
 MSSQL
 ============
 Учебное пособие (Ицик Бен-Ган,Деян Сарка,Рон Талмейдж)
 https://minyurov.files.wordpress.com/2014/10/microsoft-sql-server-2012-t-sql.pdf
 
+SQL Server Management Studio (SSMS)
+https://docs.microsoft.com/ru-ru/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2016
 
 GIT
 ============
