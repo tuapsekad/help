@@ -169,3 +169,6 @@ http://moservices.org/forum/viewtopic.php?t=1535
 https://www.football-data.co.uk/
 https://4score.ru/
 https://arbworld.net/index.php/en/moneyway?hidden=shown&shown=&timeZone=%2B03%3A00&min=0&max=100&alarm=on&beeper=0&day=Today&order=24&refreshInterval=60с
+
+============
+https://colab.research.google.com/
