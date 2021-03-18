@@ -1,3 +1,7 @@
+Нейронные сети
+=================
+https://neurohive.io/ru/
+
 Блог об аналитике, визуализации данных, data science и BI
 https://leftjoin.ru/
 
