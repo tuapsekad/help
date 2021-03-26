@@ -171,3 +171,96 @@
 ## **[Svelte](https://svelte.dev/)** (Context API)
 
 **[Вводный курс по Svelte](https://www.youtube.com/playlist?list=PLqKQF2ojwm3mgL-JymBaquJItb0eP0MTR)**
+
+# Server Side Rendering
+
+- Nuxt
+- Next
+- Angular Universal
+- Sapper
+
+### Видео по теме:
+
+Nuxt (Vue): https://www.youtube.com/watch?v=lm9olMCRCIc
+
+Next (React): https://www.youtube.com/watch?v=_EOrSmjdOZQ
+
+# TypeScript
+
+- Основы
+- Интерфейсы
+- Generic Types
+
+### Видео по теме
+
+Курс за 70 минут: https://www.youtube.com/watch?v=nyIpDs2DJ_c
+
+Продвинутый TS: https://www.youtube.com/watch?v=7NU6K4170As
+
+# Backend
+
+## Node (Express, Koa, Nest, Loopback)
+
+Node за 1 час: https://www.youtube.com/watch?v=3aGSqasVPsI
+
+Node + Mongo: https://www.youtube.com/watch?v=8bE_PBRriyU
+
+MERN: https://www.youtube.com/watch?v=ivDjWYcKDZI
+
+Express: https://www.youtube.com/watch?v=9EtkpCzqZu0
+
+Nest: https://www.youtube.com/watch?v=abdgy72csaA
+
+## Deno
+
+Быстрый курс: https://www.youtube.com/watch?v=5tkDUN8xAMw
+
+# Базы данных
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- Firebase
+
+# Концепты
+
+- HTTP
+- GraphQL
+- REST API
+
+### Видео по теме:
+
+REST API: https://www.youtube.com/watch?v=lzQIhjElV_g
+
+# Serverless
+
+- Firebase
+- AWS
+- JAMstack
+- Yandex Cloud
+- Netlify
+
+# Тестирование
+
+- Unit (Jest)
+- Integrational
+- End 2 end
+
+### Видео по теме:
+
+Jest: https://www.youtube.com/watch?v=IEDe8jl5efU
+
+TDD: https://www.youtube.com/watch?v=SQMCtWnCxEA
+
+# PWA
+
+- Service Workers
+- Кеширование
+
+# Текстовые редакторы
+
+- VSCode
+- WebStorm
+- Atom
+- Sublime Text
+- VIM
