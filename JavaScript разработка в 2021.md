@@ -9,26 +9,26 @@
 
   ## Дополнительно
 
-- Emmet
+- [Emmet](https://emmet.io/)
 
 # CSS
 
-- Селекторы
-- Box Model
-- Позиционирование
-- Flexbox
-- Grid
-- Псевдоэлементы
-- Медиа запросы
-- Анимации
+- [Селекторы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)
+- [Box Model](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+- [Позиционирование](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Positioning)
+- [Flexbox](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Grid](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+- [Псевдоэлементы](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
+- [Медиа запросы](https://developer.mozilla.org/ru/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [Анимации](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
   ## Дополнительно к CSS
 
-- Препроцессоры (SASS, Less)
-- Bootstrap
-- Materialize CSS
-- Tailwind CSS
-- BEM
+- [Препроцессоры](https://developer.mozilla.org/ru/docs/Glossary/CSS_preprocessor) ([SASS](https://sass-lang.com/), [Less](http://lesscss.org/))
+- [Bootstrap](https://getbootstrap.com/)
+- [Materialize CSS](https://materializecss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [BEM](https://ru.bem.info/methodology/css/)
 
 # JavaScript
 
