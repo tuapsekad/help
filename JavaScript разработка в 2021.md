@@ -1,17 +1,17 @@
 # JavaScript разработка в 2021 **[Видео обзор](https://www.youtube.com/watch?v=181VnUUJq-Y)**
 
-# HTML
+# [HTML](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/HTML5)
 
-- Основы
-- Структура страницы
-- Семантика
-- Формы
+- [Основы](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Структура страницы](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- [Семантика](https://developer.mozilla.org/ru/docs/Glossary/Semantics#%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0_%D0%B2_html)
+- [Формы](https://developer.mozilla.org/ru/docs/Learn/Forms)
 
   ## Дополнительно
 
 - [Emmet](https://emmet.io/)
 
-# CSS
+# [CSS](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 - [Селекторы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)
 - [Box Model](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
@@ -30,50 +30,50 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [BEM](https://ru.bem.info/methodology/css/)
 
-# JavaScript
+# [JavaScript](https://learn.javascript.ru/)
 
 ## Основы + DOM
 
 **[Полный курс по JavaScript (Видео)](https://www.youtube.com/watch?v=Bluxbh9CaQ0)**
 
-## Замыкания
+## [Замыкания](https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures)
 
 **[Что такое замыкания (Видео)](https://www.youtube.com/watch?v=pahO5XjnfLA)**
 
-## Стрелочные функции
+## [Стрелочные функции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 **[Полный курс по ES6 (Видео)](https://www.youtube.com/watch?v=Ti2Q4sQkNdU)**
 
-## Promises
+## [Promises (Сводка)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 **[Все о Promise (Видео)](https://www.youtube.com/watch?v=1idOY3C1gYU)**
 
-## Async Await
+## [Async Await](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/async_function)
 
-**[Все про async await](https://www.youtube.com/watch?v=SHiUyM_fFME)**
+**[Все про async await (Видео)](https://www.youtube.com/watch?v=SHiUyM_fFME)**
 
-## Event Loop
+## [Event Loop](https://developer.mozilla.org/ru/docs/Web/JavaScript/EventLoop)
 
-**[Про Event Loop](https://www.youtube.com/watch?v=vIZs5tH-HGQ)**
+**[Про Event Loop (Видео)](https://www.youtube.com/watch?v=vIZs5tH-HGQ)**
 
-## Прототипы
+## [Прототипы](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/Object_prototypes)
 
-**[Что такое Prototype](https://www.youtube.com/watch?v=aQkgUUmUJy4)**
+**[Что такое Prototype (Видео)](https://www.youtube.com/watch?v=aQkgUUmUJy4)**
 
-## Методы массивов
+## [Методы массивов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-**[Основные методы массивов](https://www.youtube.com/watch?v=nEabP9CYCAQ)**
+**[Основные методы массивов (Видео)](https://www.youtube.com/watch?v=nEabP9CYCAQ)**
 
-## Деструктуризация
+## [Деструктуризация](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
-**[Про rest/spread](https://www.youtube.com/watch?v=SGeQ-U0G7dE)**
+**[Про rest/spread (Видео)](https://www.youtube.com/watch?v=SGeQ-U0G7dE)**
 
-**[Деструктуризация](https://www.youtube.com/watch?v=wWYokY0Pt2M)**
+**[Деструктуризация (Видео)](https://www.youtube.com/watch?v=wWYokY0Pt2M)**
 
-## Классы
+## [Классы](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
 
 **[Все о классах](https://www.youtube.com/watch?v=uLY9GXGMXaA)**
 
-## Fetch (работа с сервером)
+## [Fetch (работа с сервером)](https://developer.mozilla.org/ru/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
 **[Про fetch и запросы на сервер](https://www.youtube.com/watch?v=eKCD9djJQKc)**
