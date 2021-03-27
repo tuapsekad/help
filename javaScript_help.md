@@ -3,6 +3,7 @@
 - node -v
 - npx -v
 - nmp -v
+- npm init
 - npm install
 
 # Запуск React
