@@ -148,10 +148,17 @@ https://minyurov.files.wordpress.com/2014/10/microsoft-sql-server-2012-t-sql.pdf
 SQL Server Management Studio (SSMS)
 https://docs.microsoft.com/ru-ru/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2016
 
+Карманный справочник: сравнение синтаксиса MS SQL Server и PostgreSQL
+https://habr.com/ru/company/ozontech/blog/645173/
+
 GIT
 ============
 https://gitsheet.wtf/
 
+ГАР
+============
+ГАР БД ФИАС или очень полная БД ФИАС
+https://habr.com/ru/post/577752/
 
 Библия
 ============
